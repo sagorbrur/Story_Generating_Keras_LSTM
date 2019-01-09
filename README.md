@@ -15,4 +15,8 @@ You can use any story which is copyright free in [gutenberg.org](https://www.gut
 2. Keras
 3. Numpy
 
+# Running the model
+1. Run the `model.py`
+2. Run the `test.py`
+
 
