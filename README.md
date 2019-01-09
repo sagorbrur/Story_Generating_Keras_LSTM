@@ -1,4 +1,4 @@
-# Story_Generating_Keras_LSTM
+# Story Generating using Keras LSTM
 This is a lstm neural story generating model using keras. 
 
 For larger lstm recurrent network run the larger_story_generator_model.py
