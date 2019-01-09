@@ -38,6 +38,7 @@ n_patterns = len(dataX)
 print ("Total Patterns: ", n_patterns)
 
 # load the network weights
+#Change the filename with your own trained hdf5
 filename = "weights-improvement-10-2.3512.hdf5"
 
 model = load_model(filename)
