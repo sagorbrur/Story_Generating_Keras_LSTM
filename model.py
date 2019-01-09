@@ -54,7 +54,11 @@ callbacks_list = [checkpoint]
 
 model.fit(X, y, epochs=10, batch_size=128, callbacks=callbacks_list)
 
+#For Testing run the test.py code
+
 #Testing
+
+'''
 
 # load the network weights
 filename = "weights-improvement-19-1.9435.hdf5"
@@ -80,6 +84,8 @@ for i in range(1000):
 	pattern.append(index)
 	pattern = pattern[1:len(pattern)]
 print ("\nDone.")
+
+'''
 
 
 
