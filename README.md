@@ -1,7 +1,7 @@
-# Story Generating using Keras LSTM
-This is a lstm neural story generating model using keras. 
+# Text Generating using Keras LSTM
+This is a lstm neural Text generating model using keras. 
 
-For larger lstm recurrent network run the larger_story_generator_model.py
+For larger lstm recurrent network run the larger_text_generator_model.py
 
 [This code was implemented from this link](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 
