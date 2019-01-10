@@ -12,8 +12,9 @@ You can use any story which is copyright free in [gutenberg.org](https://www.gut
 
 # Requirements
 1. Python 3
-2. Keras
-3. Numpy
+2. Tensorflow
+3. Keras
+4. Numpy
 
 # Running the model
 1. Run the `model.py`
